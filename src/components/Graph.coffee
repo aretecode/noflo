@@ -1,4 +1,4 @@
-noflo = require "../lib/NoFlo"
+noflo = require '../lib/NoFlo'
 
 class Graph extends noflo.Component
   constructor: (@metadata) ->
